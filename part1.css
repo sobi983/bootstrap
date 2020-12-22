@@ -1,0 +1,302 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url('./font/News-Gothic-Bold.otf');
+}
+html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #212529;
+  font-family: myFirstFont;
+}
+
+.bImg1 {
+  background-image: url('./backgroundpictures/01-01.jpg');
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bImg2 {
+  background-image: url('./backgroundpictures/01-02.jpg');
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bImg3 {
+  background-image: url('./backgroundpictures/01-03.jpg');
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bImg4 {
+  background-image: url('./backgroundpictures/01-04.jpg');
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bImg5 {
+  background-image: url('./backgroundpictures/01-06.jpg');
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bImg6 {
+  background-image: url('./backgroundpictures/01-07.jpg');
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bImg7 {
+  background-image: url('./backgroundpictures/01-08.jpg');
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bImg8 {
+  background-image: url('./backgroundpictures/01-10.jpg');
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bImg9 {
+  background-image: url('./backgroundpictures/2-02.jpg');
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bImg10 {
+  background-image: url('./backgroundpictures/2-03.jpg');
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bImg11 {
+  background-image: url('./backgroundpictures/2-04.jpg');
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bImg12 {
+  background-image: url('./backgroundpictures/2-05.jpg');
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bImg13 {
+  background-image: url('./backgroundpictures/2-06.jpg');
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bImg14 {
+  background-image: url('./backgroundpictures/2-07.jpg');
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.colorOfComponent1 {
+  color: #fbb040;
+  font-weight: 750;
+  letter-spacing: 1.5px;
+  font-size: 40px;
+}
+
+.colorOfComponent11 {
+  color: white;
+  font-weight: 800;
+
+  padding-top: 78px;
+  font-size: 28px;
+}
+.colorOfComponent2 {
+  color: #fbb040;
+  font-weight: 850;
+  letter-spacing: 1.5px;
+}
+.colorOfComponent22 {
+  color: rgb(49, 49, 49);
+  font-weight: bold;
+}
+.colorOfComponent3 {
+  font-size: 22px;
+  font-weight: 750;
+  color: white;
+  line-height: 150%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.colorOfComponent4 {
+  color: #fbb040;
+  font-weight: 850;
+  letter-spacing: 1.5px;
+}
+.colorOfComponent5 {
+  color: #fbb040;
+  font-weight: 850;
+}
+.colorOfComponent55 {
+  color: white;
+  font-weight: 550;
+}
+.colorOfComponent555 {
+  color: white;
+  font-weight: 450;
+}
+.colorOfComponent6 {
+  color: #fbb040;
+  font-weight: 900;
+}
+.colorOfComponent8 {
+  color: #fbb040;
+}
+.pic3 {
+  padding-top: 40px;
+  width: 110px;
+  height: 280px;
+}
+.p5 {
+  width: 168px;
+  height: 300px;
+}
+.paras {
+  color: rgb(49, 49, 49);
+  font-weight: bold;
+  font-size: 18px;
+}
+.paras1 {
+  color: rgb(49, 49, 49);
+}
+.bImg111 {
+  background-image: url('./backgroundpictures/6.jpg');
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bImg222 {
+  background-image: url('./backgroundpictures/1.jpg');
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bImg333 {
+  background-image: url('./backgroundpictures/4.jpg');
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bImg4444 {
+  background-image: url('./backgroundpictures/5.jpg');
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bImg555 {
+  background-image: url('./backgroundpictures/7.jpg');
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bImg666 {
+  background-image: url('./backgroundpictures/3.jpg');
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.colorOfComponenta {
+  color: #fbb040;
+  font-weight: 750;
+  letter-spacing: 1.5px;
+  font-size: 55px;
+}
+.colorOfComponentaa {
+  color: #fbb040;
+  font-weight: 750;
+  letter-spacing: 1.5px;
+  font-size: 40px;
+  margin-top: 20px;
+}
+
+.colorOfComponentdd {
+  color: white;
+  font-weight: 800;
+  font-size: 28px;
+}
+
+.colorOfComponent1444 {
+  color: #fbb040;
+  font-weight: 750;
+  letter-spacing: 1.5px;
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+@media screen and (max-width: 720px) {
+  .i1a {
+    position: relative;
+    right: 24%;
+  }
+}
+
+@media screen and (max-width: 960px) and (min-width: 720px) {
+  .i1 {
+    padding-top: 120px;
+  }
+  .c4 {
+    margin-left: 33%;
+  }
+  .c5 {
+    margin-left: 31%;
+  }
+  .c6 {
+    margin-left: 26%;
+  }
+}
+@media screen and (max-width: 719px) and (min-width: 540px) {
+  .p1 {
+    text-align: center;
+  }
+  .c444 {
+    margin-left: 16%;
+  }
+  .c55 {
+    margin-left: 28%;
+  }
+  .c66 {
+    margin-left: 21%;
+  }
+}
+@media screen and (max-width: 539px) {
+  .p1 {
+    text-align: center;
+  }
+  .c44 {
+    margin-left: 16%;
+  }
+  .c555 {
+    margin-left: 25%;
+  }
+  .c666 {
+    text-align: center;
+  }
+}
